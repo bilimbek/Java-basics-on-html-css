@@ -1,0 +1,43 @@
+body{ color: white}
+
+span {
+    color: purple;
+}
+.wrapper{
+    background-color: navy;
+    width: 970px;
+    padding: 10px 10px 10px 10px;
+}
+.navigation{
+    
+    border-radius: 10px;
+    width: 210px;
+    background-color: darkcyan;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+.header{
+    border-radius: 10px;
+    background-color: red;
+    margin: 0 0 15px 0px;
+    padding: 1px 0 1px 10px;
+}
+.main_content {
+    border-radius: 10px;
+    background-color: black;
+    width: 700px;
+    height: 600px;
+    margin: 0 0 0 255px;
+    padding: 10px 10px 10px 10px;
+}
+.span{
+    color: purple;
+}
+.footer{
+ border-radius: 10px;
+ background-color: silver;
+ height: 40px;
+ margin: 10px 0px 10px 0px;
+ padding: 10px 10px 10px;
+ width: 600;
+}
